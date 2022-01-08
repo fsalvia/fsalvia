@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA and Python.
 - 📫 You can contact me, in my linkedin profile: in/facusalvia
 ## Skills:
-![Java](https://img.shields.io/badge/Java-5DADE2?style=for-thebadge&logo=java&logoColor=5DADE2&labelColor=white)</br>
+![Java](https://img.shields.io/badge/Java-ABB2B9?style=for-thebadge&logo=java&logoColor=5DADE2&labelColor=white)</br>
 
 <!---
 fsalvia/fsalvia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
